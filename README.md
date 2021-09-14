@@ -1,7 +1,5 @@
-# NewTechnologyConsulting
+# Litt om arbeidsprossesen
 Adrian Phillips og Kristian Hjelmtveit
-
-Arbeidsprossesen
 
 Vi startet med å jobbe seperat og leste oss opp på de ulike temaene. Vi testet og utviklet små web applikasjoner og APIer hver for oss. 
 Det å jobbe seperat før vi jobbet sammen har vi sett på som en stor fordel. 
